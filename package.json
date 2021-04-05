@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs, JS",
+  "main": "index.js",
+  "author": "Danny <dantes817@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
